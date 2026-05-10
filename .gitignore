@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Environnement virtuel
+venv/
+env/
+ENV/
+
+# Base de données
+*.sqlite3
+db.sqlite3
+
+# Clés API (IMPORTANT - protège votre clé)
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
